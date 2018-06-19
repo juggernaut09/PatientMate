@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "8619419491",
+    "firebase_url": "https://patientmate-cadb6.firebaseio.com",
+    "project_id": "patientmate-cadb6",
+    "storage_bucket": "patientmate-cadb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8619419491:android:16416b8e65de1d49",
+        "android_client_info": {
+          "package_name": "com.example.android.example.com.patientmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8619419491-le5i1krkcg26qmev3hp2dcclb8ud2iqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.example.com.patientmate",
+            "certificate_hash": "1a842232c96546a9175aa8537f33739f12a5f424"
+          }
+        },
+        {
+          "client_id": "8619419491-743811cq17s616ihg861uu4qo0lvvi53.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "8619419491-743811cq17s616ihg861uu4qo0lvvi53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmbvTMNnpUB-0E6VK8u_WT-eJ170AG8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8619419491-743811cq17s616ihg861uu4qo0lvvi53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
